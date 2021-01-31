@@ -1,10 +1,11 @@
 # SeeTree Home Assignment
-<h6>
+<h4>
 In this assignment I used Flask as requested to construct an HTTP python service with endpoints.<br>
 The assignment took me about 7 hours to complete - including design, coding and testing it.<br>
 I've wrote a basic unittest file (DataTest.py). In the case I had more time, I would've written a dedicated test for 
 the flask app, and move the data into a DB.
-</h6>
+</h4>
+
 ----
 Files:
 ---
